@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ctriphotel_common/ctriphotel_common.iml" filepath="$PROJECT_DIR$/ctriphotel_common/ctriphotel_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctriphotel_mapper/ctriphotel_mapper.iml" filepath="$PROJECT_DIR$/ctriphotel_mapper/ctriphotel_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctriphotel_parent.iml" filepath="$PROJECT_DIR$/ctriphotel_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctriphotel_pojo/ctriphotel_pojo.iml" filepath="$PROJECT_DIR$/ctriphotel_pojo/ctriphotel_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctriphotel_service/ctriphotel_service.iml" filepath="$PROJECT_DIR$/ctriphotel_service/ctriphotel_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctriphotel_web/ctriphotel_web.iml" filepath="$PROJECT_DIR$/ctriphotel_web/ctriphotel_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctripthotel_spider/ctripthotel_spider.iml" filepath="$PROJECT_DIR$/ctripthotel_spider/ctripthotel_spider.iml" />
+    </modules>
+  </component>
+</project>

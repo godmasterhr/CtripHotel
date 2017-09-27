@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ctriphotel_common" />
+        <module name="ctriphotel_mapper" />
+        <module name="ctriphotel_pojo" />
+        <module name="ctriphotel_service" />
+        <module name="ctriphotel_web" />
+        <module name="ctripthotel_spider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ctriphotel_common" target="1.6" />
+      <module name="ctriphotel_mapper" target="1.6" />
+      <module name="ctriphotel_parent" target="1.6" />
+      <module name="ctriphotel_pojo" target="1.6" />
+      <module name="ctriphotel_service" target="1.6" />
+      <module name="ctriphotel_spider" target="1.5" />
+      <module name="ctriphotel_web" target="1.8" />
+      <module name="ctripthotel_spider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
